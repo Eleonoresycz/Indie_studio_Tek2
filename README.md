@@ -85,3 +85,5 @@ On Unix
 - [@AlexisDevloo](https://github.com/AlexisDevloo)
 - [@GregoireBiendine](https://github.com/gregoirebiendine)
 
+Ma participation:
+Intelligence artificielle des bbots avec différentes difficultés. (facile/difficile)
